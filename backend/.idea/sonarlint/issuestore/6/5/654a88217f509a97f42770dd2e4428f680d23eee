@@ -1,0 +1,12 @@
+
+o
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ×©’
+f
+java:S1192>"PDefine a constant instead of duplicating this literal "Invalid User Id" 3 times.(Ú™êÃ
+f	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¨¶
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+[
+java:S4684#"@Replace this persistent entity with a simple POJO or DTO object.(óšÃüÿÿÿÿ
+[
+java:S46843"@Replace this persistent entity with a simple POJO or DTO object.(ó‰ÿÿÿÿÿ

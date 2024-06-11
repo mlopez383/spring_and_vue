@@ -1,0 +1,8 @@
+/mnt/G/PRACTICAS/HTML/VUE_SPRING/spring-boot-postgresql-vue-crud/backend/src/main/java/com/knf/dev/demo/backend/exception/GlobalExceptionHandler.java
+/mnt/G/PRACTICAS/HTML/VUE_SPRING/spring-boot-postgresql-vue-crud/backend/src/main/java/com/knf/dev/demo/backend/BackendApplication.java
+/mnt/G/PRACTICAS/HTML/VUE_SPRING/spring-boot-postgresql-vue-crud/backend/src/main/java/com/knf/dev/demo/backend/repository/UserRepository.java
+/mnt/G/PRACTICAS/HTML/VUE_SPRING/spring-boot-postgresql-vue-crud/backend/src/main/java/com/knf/dev/demo/backend/controller/UserController.java
+/mnt/G/PRACTICAS/HTML/VUE_SPRING/spring-boot-postgresql-vue-crud/backend/src/main/java/com/knf/dev/demo/backend/entity/User.java
+/mnt/G/PRACTICAS/HTML/VUE_SPRING/spring-boot-postgresql-vue-crud/backend/src/main/java/com/knf/dev/demo/backend/exception/UserNotFound.java
+/mnt/G/PRACTICAS/HTML/VUE_SPRING/spring-boot-postgresql-vue-crud/backend/src/main/java/com/knf/dev/demo/backend/exception/ErrorMessage.java
+/mnt/G/PRACTICAS/HTML/VUE_SPRING/spring-boot-postgresql-vue-crud/backend/src/main/java/com/knf/dev/demo/backend/exception/InternalServerError.java
